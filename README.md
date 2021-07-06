@@ -1,4 +1,4 @@
-# Erlang_pollution_server
+# Erlang Pollution Server OTP
 Simple project wirtten in Erlang. It contains four modules:
 * pollution
 * gen_server
